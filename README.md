@@ -1,10 +1,10 @@
 
 👩‍💻My name is Wakanaka.
 
-🎓 Computer Science Undergraduate | Passionate Developer | Tech Enthusiast
+🎓 Computer Science Undergraduate 
 
 🌟 About Me:
-I'm a dedicated Computer Science undergraduate student with a burning passion for technology and software development. Ever since I started my degree, I've been captivated by all the tiny things that happen in order for websites, apps and all things tech to show up in front of us. Whether it's algorithms, building solutions to tough problems, or exploring other technologies like machine learning, functional programming and cyber security, I'm always eager to dive in and learn.
+I'm a dedicated Computer Science undergraduate student with a burning passion for technology and software development. Ever since I started my degree, I've been captivated by all the tiny things that happen in order for websites, apps and all things tech to show up in front of us. Whether it's building solutions to tough problems, or exploring other technologies like functional programming and cyber security, I'm always eager to dive in and learn.
 
 🚀 Skills:
 - Proficient in programming languages like Java, Python, and F#
