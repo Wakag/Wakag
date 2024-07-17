@@ -8,7 +8,7 @@ I'm a dedicated Computer Science undergraduate student with a burning passion fo
 
 🚀 Skills:
 - Proficient in programming languages like Java, Python, and F#
-- Experienced in web development with HTML, CSS, JavaScript, and frameworks like Yarn and Node.js 
+- Experienced in web development with HTML, CSS, JavaScript, PHP and frameworks like Yarn and Node.js 
 - Familiar with database management systems including MySQL and PostgreSQL
 - Knowledgeable in algorithms, data structures
 - Enthusiastic learner with a knack for quickly adapting to new technologies
